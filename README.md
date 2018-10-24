@@ -5,7 +5,7 @@
 
 - Book.xml을 파싱하여 아래 결과 화면과 같이 TableView에 출력한다.
 
-- *딕셔너리[key: value], 딕셔너리의 배열[[key: value]]*을 사용하여 파싱을 한다.
+- 딕셔너리[key: value], 딕셔너리의 배열[[key: value]]을 사용하여 파싱을 한다.
 
 - 테이블뷰 cell의 style은 subTitle 형식을 사용한다.
 - XML 화일 
