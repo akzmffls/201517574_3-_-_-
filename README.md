@@ -33,6 +33,8 @@
     </book>
 </catalog>
 ```
+- Storyboard
+<img width="616" alt="stb" src="https://user-images.githubusercontent.com/1857075/47429863-8f2d1300-d7d2-11e8-99d8-763c59ea93fc.png">
 
 2. 코딩 결과 화면
 
