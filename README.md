@@ -7,7 +7,7 @@
 
 - 딕셔너리, 딕셔너리의 배열을 사용하여 파싱을 한다.
 - XML 
-
+'''
 <catalog>
     <book>
         <title>해리포트와 마법의 돌</title>
@@ -30,7 +30,7 @@
         <author>윤선도</author>    
     </book>
 </catalog>
-
+'''
 
 2. 코딩 결과 화면
 
