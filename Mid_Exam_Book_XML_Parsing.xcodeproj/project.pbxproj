@@ -12,6 +12,7 @@
 		05846CBB217ED68E00B178E1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 05846CB9217ED68E00B178E1 /* Main.storyboard */; };
 		05846CBD217ED68F00B178E1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 05846CBC217ED68F00B178E1 /* Assets.xcassets */; };
 		05846CC0217ED68F00B178E1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 05846CBE217ED68F00B178E1 /* LaunchScreen.storyboard */; };
+		05846CCA217ED72F00B178E1 /* Book.xml in Resources */ = {isa = PBXBuildFile; fileRef = 05846CC9217ED72F00B178E1 /* Book.xml */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		05846CBC217ED68F00B178E1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		05846CBF217ED68F00B178E1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		05846CC1217ED68F00B178E1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		05846CC9217ED72F00B178E1 /* Book.xml */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = Book.xml; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		05846CB4217ED68E00B178E1 /* Mid_Exam_Book_XML_Parsing */ = {
 			isa = PBXGroup;
 			children = (
+				05846CC9217ED72F00B178E1 /* Book.xml */,
 				05846CB5217ED68E00B178E1 /* AppDelegate.swift */,
 				05846CB7217ED68E00B178E1 /* ViewController.swift */,
 				05846CB9217ED68E00B178E1 /* Main.storyboard */,
@@ -124,6 +127,7 @@
 			files = (
 				05846CC0217ED68F00B178E1 /* LaunchScreen.storyboard in Resources */,
 				05846CBD217ED68F00B178E1 /* Assets.xcassets in Resources */,
+				05846CCA217ED72F00B178E1 /* Book.xml in Resources */,
 				05846CBB217ED68E00B178E1 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
