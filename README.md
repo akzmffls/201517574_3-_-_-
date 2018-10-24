@@ -2,7 +2,7 @@
 <H2> 중간고사 시험문제 2018-2 </H2>
 
 1. Github의 Mid-Exam-2018 소스를 다운로드하여 아래 코딩 결과 화면이 나오도록 완성하시오. 
-
+- https://github.com/jhkim3217/Mid-Exam-2018-2
 - Book.xml을 파싱하여 아래 결과 화면과 같이 TableView에 출력한다.
 
 - 딕셔너리[key: value], 딕셔너리의 배열[[key: value]]을 사용하여 파싱을 한다.
