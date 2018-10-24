@@ -6,7 +6,7 @@
 - Book..xml을 파싱하여 TableView에 출력한다.
 
 - 딕셔너리, 딕셔너리의 배열을 사용하여 파싱을 한다.
-- XML 
+- XML 화일 
 ```
 <catalog>
     <book>
